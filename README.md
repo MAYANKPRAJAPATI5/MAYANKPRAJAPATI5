@@ -8,8 +8,8 @@
 
 ## 📝 About Me
 
-I am a 🌟 passionate and results-driven Data Scientist with a keen interest in leveraging data to extract meaningful insights and data drive decision-making processes. With a strong foundation in mathematics and programming, I enjoy exploring 🧪 complex datasets, developing 🤖 machine learning models, and implementing data-driven solutions. My goal is to contribute to the field of data science by tackling real-world challenges and applying innovative techniques.
-<br />Currently, I'm open to opportunities in roles such as Data Analyst, Business Intelligence Analyst, Data Scientist, Machine Learning Engineer and Analytics Engineer.
+I am a 🌟 passionate and results-driven Data Scientist with a keen interest in leveraging data to extract meaningful insights and data-drive decision-making processes. With a strong foundation in mathematics and programming, I enjoy exploring 🧪 complex datasets, developing 🤖 machine learning models, and implementing data-driven solutions. My goal is to contribute to the field of data science by tackling real-world challenges and applying innovative techniques.
+<br />Currently, I'm open to opportunities in roles such as Data Analyst, Business Intelligence Analyst, Data Scientist, Machine Learning Engineer, and Analytics Engineer.
 
 ## 💼 Skills
 
@@ -36,7 +36,6 @@ Here are some of the tools and technologies I frequently work with:
 - 🌈 Seaborn
 - 🤖 Scikit-learn
 - 🧠 TensorFlow
-- 🔥 Keras
 - ⚙️ PyTorch
 - 🗃️ SQL
 - 🐙 Git
